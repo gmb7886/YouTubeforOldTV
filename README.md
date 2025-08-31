@@ -1,7 +1,6 @@
-# TV.Garden Mobile client #
+# YouTube for Old TV #
 
-<img src="https://github.com/gmb7886/TV.Garden/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="200"/> 
+<img src="https://github.com/gmb7886/YouTubeforOldTV/blob/master/app/src/main/ic_launcher-playstore.png" width="200"/> 
 
-This is my client for https://tv.garden, as there is no official app.
-
-Enjoy!
+This app can play YouTube on very old TVs with Android (older than Android TV). 
+Enjoy! 
